@@ -1,7 +1,7 @@
 ---
 title: "Publication"
-bg: gray  #defined in _config.yml, can use html color like '#0fbfcf'
-color: black   #text color
+bg: white     #defined in _config.yml, can use html color like '#010101'
+color: black  #text color
 fa-icon: fa-leanpub
 ---
 
