@@ -7,15 +7,14 @@ safe: false
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
-permalink: / ## disables post output
+permalink: /:title ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
-highlighter: pygments
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
+title:       "Leo"
 keywords:    "SinglePaged, jekyll, template, github, blog, single page"
 description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
 source_link: "https://github.com/t413/SinglePaged"
