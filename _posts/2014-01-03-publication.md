@@ -2,7 +2,7 @@
 title: "Publication"
 bg: gray  #defined in _config.yml, can use html color like '#0fbfcf'
 color: black   #text color
-fa-icon: leanpub
+fa-icon: fa-leanpub
 ---
 
 ## Journal Paper:
