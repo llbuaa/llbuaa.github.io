@@ -14,9 +14,9 @@ fa-icon: leanpub
 - <u>L. Liu</u>, X.-Y. Li*, & T.-M. Jiang, Fuzzy analysis of bearing accelerated degradation testing with uncertainty, Vibroengineering Procedia, 4:137 142, 2014. <font color="#FF0000">Published</font>
 
 ## Conference Paper:
-- X.-Y. Li, L. Liu, R. Kang, J. Lee, D. Xu, & F.-Q. Sun, Experiments for PHM: Needs, developments and challenges, in European Safety and Reliability Conference, ESREL 2014, Wroclaw, Poland, 569-576, 2014.
-- L. Liu, X.-Y. Li & T.-M. Jiang, Nonlinear accelerated degradation analysis based on the general Wiener process, in European Safety and Reliability Conference, ESREL 2015, Zurich, Switzerland.
-- L. Liu, X.-Y. Li, J.-M. Jiang & J.-G. Zhang, Optimal design for accelerated degradation tests with stochastic model uncertainty, in European Safety and Reliability Conference, ESREL 2016, Glasgow, UK.
-- X. Chen, X.-Y. Li, L. Liu & R. Kang, Error allocation for Motion Mechanism Based on the Kinematic Accuracy Reliability, in European Safety and Reliability Conference, ESREL 2016, Glasgow, UK.
-- H. Xu, X.-Y. Li, & L. Liu, A Statistical method of accelerated life testing based on fuzzy theory, in 2014 International Conference on Reliability, Maintainability and Safety, IEEE, 746-749, 2015.
-- H. Xu, X.-Y. Li, & L. Liu, Statistical analysis of accelerated life testing under Weibull distribution based on fuzzy theory, in Proceedings – Annual Reliability and Maintainability Symposium, 26-29, 2015. 
+- X.-Y. Li, <u>L. Liu</u>, R. Kang, J. Lee, D. Xu, & F.-Q. Sun, Experiments for PHM: Needs, developments and challenges, in European Safety and Reliability Conference, ESREL 2014, Wroclaw, Poland, 569-576, 2014.
+- <u>L. Liu</u>, X.-Y. Li & T.-M. Jiang, Nonlinear accelerated degradation analysis based on the general Wiener process, in European Safety and Reliability Conference, ESREL 2015, Zurich, Switzerland.
+- <u>L. Liu</u>, X.-Y. Li, J.-M. Jiang & J.-G. Zhang, Optimal design for accelerated degradation tests with stochastic model uncertainty, in European Safety and Reliability Conference, ESREL 2016, Glasgow, UK.
+- X. Chen, X.-Y. Li, <u>L. Liu</u> & R. Kang, Error allocation for Motion Mechanism Based on the Kinematic Accuracy Reliability, in European Safety and Reliability Conference, ESREL 2016, Glasgow, UK.
+- H. Xu, X.-Y. Li, & <u>L. Liu</u>, A Statistical method of accelerated life testing based on fuzzy theory, in 2014 International Conference on Reliability, Maintainability and Safety, IEEE, 746-749, 2015.
+- H. Xu, X.-Y. Li, & <u>L. Liu</u>, Statistical analysis of accelerated life testing under Weibull distribution based on fuzzy theory, in Proceedings – Annual Reliability and Maintainability Symposium, 26-29, 2015. 
