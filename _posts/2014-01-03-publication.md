@@ -6,12 +6,12 @@ fa-icon: leanpub
 ---
 
 ## Journal Paper:
-- <u><b>L. Liu</b></u>, X.-Y. Li*, T.-M. Jiang & F.-Q. Sun, Utilizing accelerated degradation and field data for life prediction of highly reliable products, Quality and Reliability Engineering International, 2015. <font color="#FF0000">Online Press</font> [<a href= "llbuaa.github.io/paper/10.1002-qre.1935.pdf">PDF</a>][[DOI](http://onlinelibrary.wiley.com/enhanced/doi/10.1002/qre.1935)].
-- L. Liu, X.-Y. Li*, W. Zhang, & T.-M. Jiang, Fuzzy reliability prediction of rotating machinery product with accelerated testing data, Journal of Vibroengineering, 17(8):4193 4210, 2015. 
-- F.-Q. Sun, L. Liu, X.-Y. Li, & H.-T. Liao*, Stochastic Modeling and Analysis of Multiple Nonlinear Accelerated Degradation Processes through Information Fusion, Sensors, 2016. (Accepted)
-- 刘乐, 李晓阳*, 姜同敏. 采用区间分析的加速退化试验评估方法. 北京航空航天大学学报, 2015, 41(12): 2225-2231.
-- X.-Y. Li*, L. Liu, B. He, & T.-M. Jiang, Accelerated degradation test and particle filter based remaining useful life prediction, Chemical Engineering Transactions, 33:343-348, 2013.
-- L. Liu, X.-Y. Li*, & T.-M. Jiang, Fuzzy analysis of bearing accelerated degradation testing with uncertainty, Vibroengineering Procedia, 4:137 142, 2014.
+- <u>L. Liu</u>, X.-Y. Li*, T.-M. Jiang & F.-Q. Sun, Utilizing accelerated degradation and field data for life prediction of highly reliable products, Quality and Reliability Engineering International, 2015. <font color="#FF0000">Online Press</font> [<a href= "llbuaa.github.io/paper/10.1002-qre.1935.pdf">PDF</a>][[DOI](http://onlinelibrary.wiley.com/enhanced/doi/10.1002/qre.1935)]
+- <u>L. Liu</u>, X.-Y. Li*, W. Zhang, & T.-M. Jiang, Fuzzy reliability prediction of rotating machinery product with accelerated testing data, Journal of Vibroengineering, 17(8):4193 4210, 2015. <font color="#FF0000">Published</font> [<a href= "llbuaa.github.io/paper/jve.15970.pdf">PDF</a>][[DOI](http://www.jve.lt/Vibro/JVE-2015-17-8/JVE01715121830.html)]
+- F.-Q. Sun, <u>L. Liu</u>, X.-Y. Li, & H.-T. Liao*, Stochastic Modeling and Analysis of Multiple Nonlinear Accelerated Degradation Processes through Information Fusion, Sensors, 2016. <font color="#FF0000">Accepted</font>
+- <u>刘乐</u>, 李晓阳*, 姜同敏. 采用区间分析的加速退化试验评估方法. 北京航空航天大学学报, 2015, 41(12): 2225-2231. <font color="#FF0000">Published</font>
+- X.-Y. Li*, <u>L. Liu</u>, B. He, & T.-M. Jiang, Accelerated degradation test and particle filter based remaining useful life prediction, Chemical Engineering Transactions, 33:343-348, 2013. <font color="#FF0000">Published</font>
+- <u>L. Liu</u>, X.-Y. Li*, & T.-M. Jiang, Fuzzy analysis of bearing accelerated degradation testing with uncertainty, Vibroengineering Procedia, 4:137 142, 2014. <font color="#FF0000">Published</font>
 
 ## Conference Paper:
 - X.-Y. Li, L. Liu, R. Kang, J. Lee, D. Xu, & F.-Q. Sun, Experiments for PHM: Needs, developments and challenges, in European Safety and Reliability Conference, ESREL 2014, Wroclaw, Poland, 569-576, 2014.
