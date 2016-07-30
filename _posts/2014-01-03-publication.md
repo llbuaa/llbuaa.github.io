@@ -14,7 +14,7 @@ fa-icon: leanpub
 - X.-Y. Li*, <u>L. Liu</u>, B. He, & T.-M. Jiang, Accelerated degradation test and particle filter based remaining useful life prediction, Chemical Engineering Transactions, 33:343-348, 2013. <font color="#FF0000">Published</font>
 - <u>L. Liu</u>, X.-Y. Li*, & T.-M. Jiang, Fuzzy analysis of bearing accelerated degradation testing with uncertainty, Vibroengineering Procedia, 4:137 142, 2014. <font color="#FF0000">Published</font>
 
-* Corresponding author
+{* Corresponding author}
 
 ## Conference Paper:
 - X.-Y. Li, <u>L. Liu</u>, R. Kang, J. Lee, D. Xu, & F.-Q. Sun, Experiments for PHM: Needs, developments and challenges, in European Safety and Reliability Conference, ESREL 2014, Wroclaw, Poland, 569-576, 2014.
