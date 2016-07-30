@@ -6,7 +6,7 @@ fa-icon: leanpub
 ---
 
 ## Journal Paper:
-- <u><b>L. Liu</b></u>, X.-Y. Li*, T.-M. Jiang & F.-Q. Sun, Utilizing accelerated degradation and field data for life prediction of highly reliable products, Quality and Reliability Engineering International, 2015. <font color="#FF0000">Online Press</font> [<a href= https://github.com/llbuaa/llbuaa.github.io/blob/master/paper/10.1002-qre.1935.pdf>PDF</a>][[DOI](http://onlinelibrary.wiley.com/enhanced/doi/10.1002/qre.1935)].
+- <u><b>L. Liu</b></u>, X.-Y. Li*, T.-M. Jiang & F.-Q. Sun, Utilizing accelerated degradation and field data for life prediction of highly reliable products, Quality and Reliability Engineering International, 2015. <font color="#FF0000">Online Press</font> [<a href= "llbuaa.github.io/paper/10.1002-qre.1935.pdf">PDF</a>][[DOI](http://onlinelibrary.wiley.com/enhanced/doi/10.1002/qre.1935)].
 - L. Liu, X.-Y. Li*, W. Zhang, & T.-M. Jiang, Fuzzy reliability prediction of rotating machinery product with accelerated testing data, Journal of Vibroengineering, 17(8):4193 4210, 2015. 
 - F.-Q. Sun, L. Liu, X.-Y. Li, & H.-T. Liao*, Stochastic Modeling and Analysis of Multiple Nonlinear Accelerated Degradation Processes through Information Fusion, Sensors, 2016. (Accepted)
 - 刘乐, 李晓阳*, 姜同敏. 采用区间分析的加速退化试验评估方法. 北京航空航天大学学报, 2015, 41(12): 2225-2231.
