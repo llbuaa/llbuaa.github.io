@@ -2,7 +2,7 @@
 title: "Publication"
 bg: white     #defined in _config.yml, can use html color like '#010101'
 color: black  #text color
-fa-icon: pencial
+fa-icon: pencil
 ---
 
 ## Journal Paper
