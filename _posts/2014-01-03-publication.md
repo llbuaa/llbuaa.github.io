@@ -18,7 +18,7 @@ fa-icon: pencil
 {* Corresponding author}
 
 ## Conference Paper
-- <u>L. Liu</u>, X.-Y. Li, T.-M. Jiang & J.-G. Zhang, Optimal design for accelerated degradation tests with stochastic model uncertainty, in European Safety and Reliability Conference, ESREL 2016, Glasgow, UK.
+- <u>L. Liu</u>, X.-Y. Li, T.-M. Jiang & J.-G. Zhang, Optimal design for accelerated degradation tests with stochastic model uncertainty, in European Safety and Reliability Conference, ESREL 2016, Glasgow, UK. [<a href= "llbuaa.github.io/paper/esrel.2016.1.pdf">PDF</a>][<a href= "llbuaa.github.io/paper/esrel.2016.1.ppt.pdf">PPT</a>]
 - X. Chen, X.-Y. Li, <u>L. Liu</u> & R. Kang, Error allocation for Motion Mechanism Based on the Kinematic Accuracy Reliability, in European Safety and Reliability Conference, ESREL 2016, Glasgow, UK.
 - X.-Y. Li, Y.-Q. Hu, R.-Q. Li & <u>L. Liu</u>, Bayesian optimal design of sequential stress accelerated degradation testing, in 2016 Prognostics & System Health Management Conference, PHM-2016, Chengdu, China.
 - <u>L. Liu</u>, X.-Y. Li & T.-M. Jiang, Nonlinear accelerated degradation analysis based on the general Wiener process, in European Safety and Reliability Conference, ESREL 2015, Zurich, Switzerland. [<a href= "llbuaa.github.io/paper/esrel.2015.pdf">PDF</a>][<a href= "llbuaa.github.io/paper/esrel.2015.ppt.pdf">PPT</a>]
