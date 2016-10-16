@@ -6,7 +6,7 @@ fa-icon: pencil
 ---
 
 ## Journal Paper
-- <u>L. Liu</u>, X.-Y. Li*, E. Zio, R. Kang & T.-M. Jiang, Model uncertainty in accelerated degradation testing analysis, IEEE Transactions on Reliability. <font color="#FF0000">Third round reviewing</font>
+- <u>L. Liu</u>, X.-Y. Li*, E. Zio, R. Kang & T.-M. Jiang, Model uncertainty in accelerated degradation testing analysis. Submitted.
 - Y. Yin, Y.-X. Chen & <u>L. Liu*</u>, Lifetime prediction for the subsurface crack propagation using three-dimensional dynamic FEA model, Mechanical Systems and Signal Processing, 2016. DOI:	10.1016/j.ymssp.2016.09.033. <font color="#FF0000">Accepted</font> [<a href= "llbuaa.github.io/paper/ymssp.4548.pdf">PDF</a>]
 - F.-Q. Sun, <u>L. Liu</u>, X.-Y. Li & H.-T. Liao*, Stochastic Modeling and Analysis of Multiple Nonlinear Accelerated Degradation Processes through Information Fusion, Sensors, 16(8): 1242, 2016. <font color="#FF0000">Published</font> [<a href= "llbuaa.github.io/paper/sensors.139715.pdf">PDF</a>][[DOI](http://www.mdpi.com/1424-8220/16/8/1242)]
 - <u>L. Liu</u>, X.-Y. Li*, T.-M. Jiang & F.-Q. Sun, Utilizing accelerated degradation and field data for life prediction of highly reliable products, Quality and Reliability Engineering International, 2015. <font color="#FF0000">Online Press</font> [<a href= "llbuaa.github.io/paper/10.1002-qre.1935.pdf">PDF</a>][[DOI](http://onlinelibrary.wiley.com/enhanced/doi/10.1002/qre.1935)]
