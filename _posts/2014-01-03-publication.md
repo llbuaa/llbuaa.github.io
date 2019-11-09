@@ -6,9 +6,9 @@ fa-icon: pencil
 ---
 
 ## Journal Paper
-- X.-Y. Li*, J.-P. Wu, <u>L. Liu</u>, M.-L. Wen & R. Kang, Modeling Accelerated Degradation Data Based on the Uncertain Process. IEEE Transactions on Fuzzy Systems. 2018. Accepted. [[DOI](https://ieeexplore.ieee.org/document/8543626)].
-- <u>L. Liu</u>, X.-Y. Li*, E. Zio, R. Kang & T.-M. Jiang, Model uncertainty in accelerated degradation testing analysis. IEEE Transactions on Reliability. 2017. Accepted. [[DOI](http://ieeexplore.ieee.org/document/7927485/)].
-- <u>L. Liu</u>, X.-Y. Li* & T.-M. Jiang, Integration Method for Reliability Assessment with Multi-Source Incomplete Accelerated Degradation Testing Data. Quality Engineering, July 2017. Accepted. [[DOI](http://www.tandfonline.com/doi/full/10.1080/08982112.2017.1307391)].
+- X.-Y. Li*, J.-P. Wu, <u>L. Liu</u>, M.-L. Wen & R. Kang, Modeling Accelerated Degradation Data Based on the Uncertain Process. IEEE Transactions on Fuzzy Systems, 27(8):1532-1542, 2019. [[DOI](https://ieeexplore.ieee.org/document/8543626)].
+- <u>L. Liu</u>, X.-Y. Li*, E. Zio, R. Kang & T.-M. Jiang, Model uncertainty in accelerated degradation testing analysis. IEEE Transactions on Reliability, 66(3):603-615, 2017. [[DOI](http://ieeexplore.ieee.org/document/7927485/)].
+- <u>L. Liu</u>, X.-Y. Li* & T.-M. Jiang, Integration Method for Reliability Assessment with Multi-Source Incomplete Accelerated Degradation Testing Data. Quality Engineering, 29(3):366-376, 2017. [[DOI](http://www.tandfonline.com/doi/full/10.1080/08982112.2017.1307391)].
 - <u>L. Liu</u>, X.-Y. Li, F.-Q. Sun* & N. Wang, A general accelerated degradation model based on the Wiener process, Materials, 9(12): 981, 2016. [<a href= "llbuaa.github.io/paper/materials.155108.pdf">PDF</a>][[DOI](http://www.mdpi.com/1996-1944/9/12/981)].
 - Y. Yin, Y.-X. Chen & <u>L. Liu*</u>, Lifetime prediction for the subsurface crack propagation using three-dimensional dynamic FEA model, Mechanical Systems and Signal Processing, 87PA:54-70, 2017. [<a href= "llbuaa.github.io/paper/ymssp.4548.pdf">PDF</a>][[DOI](http://www.sciencedirect.com/science/article/pii/S0888327016303855)]
 - F.-Q. Sun, <u>L. Liu</u>, X.-Y. Li & H.-T. Liao*, Stochastic Modeling and Analysis of Multiple Nonlinear Accelerated Degradation Processes through Information Fusion, Sensors, 16(8): 1242, 2016. [<a href= "llbuaa.github.io/paper/sensors.139715.pdf">PDF</a>][[DOI](http://www.mdpi.com/1424-8220/16/8/1242)]
